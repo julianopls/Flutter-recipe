@@ -21,31 +21,7 @@ Aplicativo de receitas desenvolvido com Flutter e Dart, com uma interface simple
 - Dart
 - Material Design
 
-## 🚀 Como executar o projeto
 
-Clone o repositório:
-
-```bash
-git clone https://github.com/MIRELLA-02/flutterreceitas.git
-```
-
-Entre na pasta do projeto:
-
-```bash
-cd flutterreceitas
-```
-
-Instale as dependências:
-
-```bash
-flutter pub get
-```
-
-Execute o aplicativo:
-
-```bash
-flutter run
-```
 
 ## 👨‍💻 Desenvolvido por
 
